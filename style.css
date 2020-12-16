@@ -121,11 +121,11 @@ body{
 }
 
 .app-download:nth-child(1){
-    background-image: url(img/app-store-logo-1024x354.png);
+    background-image: url(img/apple-button.png);
 }
 
 .app-download:nth-child(2){
-    background-image: url(img/disponivel-google-play-badge.png);
+    background-image: url(img/googleplay-button.png);
 }
 
 /* Responsividade */
